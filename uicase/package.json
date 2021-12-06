@@ -1,11 +1,25 @@
 {
   "name": "uicase",
   "version": "1.0.0",
-  "description": "A toolkit for testing uni-app UI components by cases",
+  "description": "A toolkit for testing uni-app UI components by cases.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linjiejim/uicase.git"
+  },
+  "keywords": [
+    "uicase",
+    "uniapp",
+    "uni-app",
+    "storyboard"
+  ],
   "author": "Jim Lin",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linjiejim/uicase/issues"
+  },
+  "homepage": "https://github.com/linjiejim/uicase#readme"
 }

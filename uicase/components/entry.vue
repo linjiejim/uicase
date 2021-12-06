@@ -1,6 +1,6 @@
 <template>
 	<view class="float-entry" @click="navigateTo">
-		TestEntry
+		UI case
 	</view>
 </template>
 

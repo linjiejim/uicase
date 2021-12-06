@@ -20,6 +20,6 @@ export function createApp() {
 }
 // #endif
 
-
-import ucase from "uicase/index.js"
-Vue.use(ucase)
+// import uicase from "uicase/index.js"		// Local 
+import uicase from "uicase"							// Npm
+Vue.use(uicase)
