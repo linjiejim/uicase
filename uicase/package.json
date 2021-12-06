@@ -1,0 +1,11 @@
+{
+  "name": "uicase",
+  "version": "1.0.0",
+  "description": "A toolkit for testing uni-app UI components by cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Lin",
+  "license": "ISC"
+}
